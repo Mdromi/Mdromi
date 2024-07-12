@@ -5,12 +5,13 @@
   <a href="https://www.linkedin.com/in/sad-rahman/" target="_blank"><img height="30" src="./Resources/png/linkedin.png"></a>
 </p>
 
+<br>
+
 Hi, I'm SRD, 💻 With over a year of experience as a Junior Ruby Developer specializing in Ruby on Rails and JavaScript, I excel in SaaS product finding and building, capable of creating or reverse-engineering products from scratch.
 
-## Professional Experience in SDLC Phases
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<img align="right" height="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
+## Professional Experience in SDLC Phases
 - 📝 Planned and executed Agile projects
 - 🔍 Analyzed requirements and user feedback
 - 🖋️ Designed interfaces and system architectures
@@ -19,6 +20,7 @@ Hi, I'm SRD, 💻 With over a year of experience as a Junior Ruby Developer spec
 - 🔧 Optimized website performance and security
 
 **Languages and Tools:**
+<br>
 
 <code><img height="20" src="./Resources/png/rails.png"></code>
 <code><img height="20" src="./Resources/png/js.jpeg"></code>
@@ -27,14 +29,6 @@ Hi, I'm SRD, 💻 With over a year of experience as a Junior Ruby Developer spec
 <code><img height="20" src="./Resources/png/java.png"></code>
 <code><img height="20" src="./Resources/png/git.png"></code>
 <code><img height="20" src="./Resources/png/linux.png"></code>
-
-  </div>
-  <div style="text-align: center;">
-    <img style="vertical-align: middle;" height="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
-  </div>
-</div>
-
-
 
 ---
 
